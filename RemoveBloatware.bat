@@ -1,5 +1,5 @@
 @ECHO off
-powershell Remove-AppxPackage Microsoft.3DBuilder
+powershell Remove-AppxPackage Microsoft.Microsoft3DBuilder
 powershell Remove-AppxPackage Microsoft.BingWeather
 powershell Remove-AppxPackage Microsoft.Calendar
 powershell Remove-AppxPackage Microsoft.Cortana
